@@ -208,12 +208,7 @@ button:active {
     margin: auto auto 0;
     padding: 0.5rem;
   }
- .navbar-brand .img-profile {
-    max-width: 12rem;
-    max-height: 12rem;
-    border: 0.3rem solid #0c28cc;;
-    border-radius: 100%;
-  }
+
 .navbar-collapse {
     display: flex;
     flex-direction: column;
