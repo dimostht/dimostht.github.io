@@ -9,16 +9,7 @@ body {
 }
 
 .navbar {
-  background-image: linear-gradient(
-    to top,
-    #1874cd,
-    #242424,
-    #242424,
-    #242424,
-    #242424,
-    #242424,
-    #1874cd
-  );
+  background-color: #242424;
 }
 
 h2,
